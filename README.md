@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hi my name is Isabel 👋
 
-
-My name's Isabel!
-
-- 🔭 I’m currently working on a computer vision project that makes learning about sound frquencies fun!
-- 🌱 I’m currently learning C++, Arduino, and Python
+- 🔭 I’d like to use technology to createeducational tools
+- 📚 I’m currently learning C++ and Python
+- 🌱 I'm interested in Machine Learning and Robotics
 - 😄 Pronouns: she/her
 
