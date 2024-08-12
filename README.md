@@ -1,7 +1,6 @@
 ### Hi my name is Isabel 👋
 
-- 🔭 Working on using technology to create educational tools
+- 🔭 Working towards using technology to create educational tools
 - 📚 Currently learning Java
-- 🌱 Interested in Machine Learning and Robotics
+- 🌱 Interested in Embedded Systems, Robotics, and Machine Learning
 - 😄 Pronouns: she/her
-
